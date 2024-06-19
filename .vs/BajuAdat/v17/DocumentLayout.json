@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Kuliah\\ITS\\Semester 2\\Struktur Data\\Tugas\\BajuAdat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2965C0-9A51-4C7B-A246-B95A4E92262B}|BajuAdat.csproj|c:\\users\\asus\\kuliah\\its\\semester 2\\struktur data\\tugas\\bajuadat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2965C0-9A51-4C7B-A246-B95A4E92262B}|BajuAdat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2965C0-9A51-4C7B-A246-B95A4E92262B}|BajuAdat.csproj|c:\\users\\asus\\kuliah\\its\\semester 2\\struktur data\\tugas\\bajuadat\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2965C0-9A51-4C7B-A246-B95A4E92262B}|BajuAdat.csproj|solutionrelative:minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "minHeap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Kuliah\\ITS\\Semester 2\\Struktur Data\\Tugas\\BajuAdat\\minHeap.cs",
+              "RelativeDocumentMoniker": "minHeap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Kuliah\\ITS\\Semester 2\\Struktur Data\\Tugas\\BajuAdat\\minHeap.cs",
+              "RelativeToolTip": "minHeap.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:14:30.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Kuliah\\ITS\\Semester 2\\Struktur Data\\Tugas\\BajuAdat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Kuliah\\ITS\\Semester 2\\Struktur Data\\Tugas\\BajuAdat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAANoBAAAAAAAAAAAuwOoBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:59:42.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

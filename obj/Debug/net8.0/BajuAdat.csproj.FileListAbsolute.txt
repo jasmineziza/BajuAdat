@@ -1,0 +1,14 @@
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\bin\Debug\net8.0\BajuAdat.exe
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\bin\Debug\net8.0\BajuAdat.deps.json
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\bin\Debug\net8.0\BajuAdat.runtimeconfig.json
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\bin\Debug\net8.0\BajuAdat.dll
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\bin\Debug\net8.0\BajuAdat.pdb
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.AssemblyInfo.cs
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.dll
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\refint\BajuAdat.dll
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.pdb
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\BajuAdat.genruntimeconfig.cache
+C:\Users\ASUS\Kuliah\ITS\Semester 2\Struktur Data\Tugas\BajuAdat\obj\Debug\net8.0\ref\BajuAdat.dll

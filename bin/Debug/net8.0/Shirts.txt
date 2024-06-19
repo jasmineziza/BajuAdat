@@ -1,0 +1,19 @@
+Aceh 1,XS,Hitam,100000
+Aceh 2 ,S,Hitam,120000
+Aceh 3,M,Hitam,150000
+Aceh 4,L,Hitam,175000
+Aceh 5,XL,Hitam,200000
+Jawa Barat 1,L,Putih,150000
+Jawa Barat 2,XL,Putih,200000
+Jawa Barat 3,S,Putih,100000
+Jakarta 1,XS,Biru,100000
+Jakarta 2,XL,Biru,200000
+Jakarta 3,L,Pink,150000
+Bali 1,XS,Kuning,100000
+Bali 2,XS,Kuning,125000
+Bali 3,XL,Kuning,200000
+Bali 4,L,Kuning,150000
+Yogyakarta 1,XS,Coklat,100000
+Yogyakarta 2,S,Coklat,125000
+Yogyakarta 4,M,Coklat,175000
+Yogyakarta 5,XL,Coklat,200000

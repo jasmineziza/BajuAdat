@@ -1,0 +1,26 @@
+a1,a,a,10
+a,a,a,10
+a,a,a,10
+b,b,b,10
+a,a,a,10
+a,a,a,10
+b,b,b,50
+c,c,c,30
+d,d,d,100
+a,a,a,10
+b,b,b,30
+c,c,c,100
+d,d,d,50
+a,a,a,10
+b,b,b,20
+c,c,c,5
+P1,JAKARTA,XL,200000
+P2,SUMATERA UTARA,L,178000
+W1,JAKARTA,L,180000
+W2,SUMATERA UTARA,M,160000
+a,a,a,10
+b,b,b,5
+c,c,c,20
+a,a,a,10
+a,a,a,10
+a,a,a,10
